@@ -166,5 +166,3 @@ See [API documentation](https://www.pdftron.com/documentation/web/guides/ui/apis
 
 See [license](./LICENSE).
 ![](https://onepixel.pdftron.com/webviewer-ui)
-
----
